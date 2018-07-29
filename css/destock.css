@@ -1,0 +1,48 @@
+@font-face{
+    font-family: mitipo;
+    src:url(fuente.woff);
+}
+body{
+    margin: 0;
+    font-family: mitipo;  
+    background: #8FA;
+}
+
+h2{
+    color: #FF0000;
+    text-align: center;
+}
+.dos_col{
+    width: 1024px;
+    margin: auto;
+}
+.dos_col .col_left{
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+}
+.dos_col .col_right{
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+.zoom img{
+    height: 100px;
+    width: 150px;
+    margin: 0px 0;
+    transition: all 3s ease;
+}
+.zoom img:hover{
+    height: 200px;
+    width: 300px;
+    margin: 0 auto;
+}
+h1{
+    color: red;
+}
+p{
+    color: blue
+}
+h6{
+    color: gold;
+}

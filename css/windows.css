@@ -1,0 +1,43 @@
+header h1{
+    color: red;
+    text-align: center;
+}
+header p{
+    color: darkblue;
+    text-align: center;
+}
+
+.img_1 img{
+    height: 500px;
+    width: 1500px; 
+    margin: 30px auto;
+}
+main h1{
+    color: black;
+    text-align: center;
+}
+.tabla_1 .imagenes{
+    height: 200px;
+    width: 150px;
+}
+.tabla_1 .parrafos{
+    text-align: center;
+}
+.img_2 img{
+    height: 500px;
+    width: 1500px;
+    margin: 20px auto;
+}
+.img_2 h1{
+   text-align: center; 
+}
+
+.tabla_2{
+    text-align: center;
+}
+
+p{
+    color: darkblue;
+    text-align: center;
+}
+

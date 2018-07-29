@@ -1,0 +1,38 @@
+body{
+    background: #FFEE8B;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: blue;
+    text-align: center
+}
+.cuatro_col{
+    width: 1024px;
+    margin: auto;
+    
+}
+.cuatro_col .col_left{
+    width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+.cuatro_col .col_cen1{
+    width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+.cuatro_col .col_cen2{
+    width: 250px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.cuatro_col .col_right{
+    width: 250px;
+    display: inline-block;
+    vertical-align: top;
+    
+}

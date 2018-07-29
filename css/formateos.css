@@ -1,0 +1,25 @@
+@font-face{
+    font-family: mitipo;
+    src:url(fuente.woff);
+}
+body{
+    width: 1030px;
+	height: auto; vertical-align: bottom;
+	border: 1px solid #000;
+	margin: auto; 
+    background: #F2F2F2;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+p{
+    text-align: justify;
+    color: blue;
+}
+
+
+h2{
+    color: #DB261D;
+    text-align: center;
+}
